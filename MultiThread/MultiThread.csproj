@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayGenerator.cs" />
+    <Compile Include="ArrayGeneratorSin.cs" />
+    <Compile Include="CopyPartArray.cs" />
+    <Compile Include="FindeAverage.cs" />
+    <Compile Include="FindeFrecChar.cs" />
+    <Compile Include="FindeMin.cs" />
+    <Compile Include="FindeMax.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
